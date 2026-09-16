@@ -1,0 +1,4 @@
+Name: Hasnain
+Course: BCA
+Semester: 5
+Python marks: 85
