@@ -5,11 +5,9 @@ class Student:
 		self.course = course
 		self.semester = semester
 		self.marks = marks
-		self.collage = collage
 
 	def __str__(self):
-		return f"{self.name} | {self.course} | {self.semester} | {self.marks} | {self.collage}"
-
+		return f"{self.name} | {self.course} | {self.semester} | {self.marks} "
 
 student1 = Student("Hasnain", "BCA", 5, 75)
 student2 = Student("Furkan", "BBA", 1, 45)

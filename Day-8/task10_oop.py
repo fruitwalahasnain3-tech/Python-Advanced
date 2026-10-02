@@ -36,7 +36,6 @@ class Student:
     def passing_marks():
         print("Passing marks: 40")
 
-
 student1 = Student("Hasnain", "IMCA", 5, 85)
 student2 = Student("Suhem Mirza", "MSCIT", 3, 45)
 student3 = Student("Abrar", "BA", 1, 65)
